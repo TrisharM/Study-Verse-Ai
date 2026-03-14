@@ -127,7 +127,7 @@ export default function HomePage() {
 
       <footer style={s.footer}>
         <Sparkles size={13} color="#a78bfa" />
-        <span>StudyVerse © 2024 — Built for students, powered by AI</span>
+        <span>StudyVerse © 2025 — Built for students, powered by AI</span>
       </footer>
     </div>
   )
